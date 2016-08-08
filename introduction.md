@@ -5,3 +5,11 @@ Again, updating the file to proceed in the CodeSchool Mastering GitHub.
 And again I'm updating the file in an attempt to complete 1.6
 Try again...
 JavaScript
+
+Markdown for 2.2
+Deadly Skills:
+*HTML
+*JavaScript
+*Git
+*Killing history using git rebase
+*etc
