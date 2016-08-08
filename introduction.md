@@ -11,4 +11,5 @@ Deadly Skills:
 *HTML
 *JavaScript
 *Git
+*Killing history using git rebase
 *etc
